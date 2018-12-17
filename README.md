@@ -1,1 +1,1 @@
-# ionic-responsiSEI
+# responsiSEI
